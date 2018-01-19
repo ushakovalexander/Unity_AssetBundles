@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 717390109
+CRC: 916312636
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 4b36b52491d281496f45253eba74f5a1
+    Hash: 3651790690644da1e91cc6b838e2370f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 528c589e1e3c5e5fa1d248f0259ce117
@@ -28,7 +28,7 @@ ClassTypes:
 - Class: 65
   Script: {instanceID: 0}
 Assets:
-- Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype02x01x02.prefab
-- Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype04x01x04.prefab
-- Assets/Standard Assets/Prototyping/Prefabs/PlatformPrototype08x01x08.prefab
+- Assets/Prototyping/Prefabs/PlatformPrototype02x01x02.prefab
+- Assets/Prototyping/Prefabs/PlatformPrototype04x01x04.prefab
+- Assets/Prototyping/Prefabs/PlatformPrototype08x01x08.prefab
 Dependencies: []
